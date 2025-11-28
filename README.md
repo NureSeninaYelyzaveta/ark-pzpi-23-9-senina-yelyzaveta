@@ -9,3 +9,5 @@
 Методи рефакторингу коду програмного забезпечення: Split Temporary Variable, Remove Assignments to Parameters та Remove Control Flag у мові С.
 
 Програмна система для контролю успішності учнів художніх шкіл 
+
+---
